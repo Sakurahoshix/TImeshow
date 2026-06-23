@@ -1,13 +1,12 @@
 # ⏰ Digital Clock
 
-A simple and responsive digital clock built using HTML, CSS, and JavaScript.
+A simple and stylish digital clock built using HTML, CSS, and JavaScript.
 
 ## 🚀 Features
 
 * Real-time clock updates every second
-* Modern and clean UI
-* Responsive design
-* Easy to understand code
+* Modern dark theme
+* Smooth and responsive design
 * Beginner-friendly project
 
 ## 🛠️ Technologies Used
@@ -18,29 +17,21 @@ A simple and responsive digital clock built using HTML, CSS, and JavaScript.
 
 ## 📖 How I Built This Project
 
-1. Created the basic structure using HTML.
-2. Styled the clock and background with CSS.
-3. Used JavaScript's `Date()` object to get the current time.
-4. Updated the clock every second using `setInterval()`.
-5. Displayed the hours, minutes, and seconds in the browser.
-
-## 📷 Preview
-
-Displays the current time in the format:
-
-00:00:00
+* Created the structure using HTML.
+* Added styling with CSS inside the HTML file.
+* Used JavaScript's `Date()` object to get the current time.
+* Updated the clock every second using `setInterval()`.
+* Displayed the time in `HH:MM:SS` format.
 
 ## 📂 Project Structure
 
-```
+```text
 Digital-Clock/
 │
-├── index.html
-├── style.css
-└── script.js
+└── index.html
 ```
 
-## 🎯 Learning Outcomes
+## 🎯 What I Learned
 
 * DOM Manipulation
 * JavaScript Date Object
